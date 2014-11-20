@@ -1,4 +1,4 @@
 How-to
 ======
 
-How to notes
+Check out to wki for _How-to_ notes
