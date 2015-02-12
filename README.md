@@ -1,4 +1,4 @@
 How-to
 ======
 
-Check out to wki for _How-to_ notes
+Click on the [Wiki](https://github.com/youdar/How-to/wiki)  button to get to the How-To Wiki [How-To Wiki](https://github.com/youdar/How-to/wiki)
